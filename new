@@ -1,3 +1,12 @@
 hi how are you?
+<<<<<<< Updated upstream
 hi again
 hi returns
+=======
+<<<<<<< Updated upstream
+=======
+hi again
+hi returns
+line 4 and 5
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
